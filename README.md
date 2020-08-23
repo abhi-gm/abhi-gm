@@ -10,8 +10,8 @@ A data scientist in making
 My  goal is to make the world a better place than I found it to be.
 
 
-- :microscope: I’m currently working on Interpretability in Image Segmentation Techniques.
-- :seedling: I’m am learning Semantic, Instance and Panoptic Segmentation based algorithms.
+- :microscope: I am currently working on Model Interpretability and Explainable AI
+- :seedling: 
 - :two_men_holding_hands: I’m looking to collaborate on Computer Vision related projects.
 - :speech_balloon: Ask me about anything related to vision
 - :grin: Pronouns: He/His/Him
