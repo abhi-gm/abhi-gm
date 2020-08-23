@@ -11,11 +11,8 @@ My  goal is to make the world a better place than I found it to be.
 
 
 - :microscope: I am currently working on Model Interpretability and Explainable AI
-- :seedling: 
-- :two_men_holding_hands: I’m looking to collaborate on Computer Vision related projects.
-- :speech_balloon: Ask me about anything related to vision
+- :two_men_holding_hands: I am open to collaborate on Deep Learning related projects.
 - :grin: Pronouns: He/His/Him
-- :zap: Fun fact: I have 2 sets of wisdom teeth!! :grimacing:
 </br>
 
 ### Connect with me:
@@ -29,22 +26,19 @@ My  goal is to make the world a better place than I found it to be.
 
 ### Languages and Tools:
 
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/python.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/numpy.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/opencv.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/pytorch.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/scikit.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/keras.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/tensorflow.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/c++.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/matlab.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/github.svg" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/pycharm.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/jupyter.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/bash.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/aws.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/cloud.png" height="30" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/nikunjlad/nikunjlad/blob/master/assets/sql.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/python.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/numpy.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/pytorch.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/scikit.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/keras.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/tensorflow.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/matlab.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/github.svg" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/pycharm.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/jupyter.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/bash.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/aws.png" height="30" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/sql.png" height="30" />&nbsp;&nbsp;&nbsp;
 </br>
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikunjlad&show_icons=true&hide_border=true" />
