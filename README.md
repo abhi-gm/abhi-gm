@@ -41,4 +41,4 @@ My  goal is to make the world a better place than I found it to be.
 <img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/sql.png" height="30" />&nbsp;&nbsp;&nbsp;
 </br>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikunjlad&show_icons=true&hide_border=true" />
+
