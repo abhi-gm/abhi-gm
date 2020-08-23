@@ -5,11 +5,11 @@
 /
 Abhishek-Gargha-Maheshwarappa is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+A data scientist in making 
 
-I am a Computer Vision Developer and a Machine Learning Engineer. I love working on interesting challenges in Computer Vision, Natural Language Processing and Audio.
-A passionate data scientist with a liking to solve social problems.
-Energetic team player and a confident individual with fine Presentation skills.
-My ultimate goal is to make the world a better place than I found it to be.
+My  goal is to make the world a better place than I found it to be.
+
+
 - :microscope: I’m currently working on Interpretability in Image Segmentation Techniques.
 - :seedling: I’m am learning Semantic, Instance and Panoptic Segmentation based algorithms.
 - :two_men_holding_hands: I’m looking to collaborate on Computer Vision related projects.
