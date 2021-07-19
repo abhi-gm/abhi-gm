@@ -7,18 +7,21 @@ Abhishek-Gargha-Maheshwarappa is a ✨ _special_ ✨ repository because its `REA
 -->
 ## **Machine Learning Engineer / Data Scientist / MLOps Engineer**
 
-⚡ Building CI/CD pipelines for training ML models, packaging and monitoring the ML models and deploying into Kubernetes Cluster.
-⚡ Developing scalable production-ready Machine Learning models for various use cases to create business value.
-⚡ Experience in working with DeepLearning and Classical machine learning algorithms.
-⚡ Experience in working with ML-OPS - Deploying machine learning models into production.
-</br>
+⚡ Building CI/CD pipelines for training ML models, packaging and monitoring the ML models and deploying into Kubernetes Cluster.<br>
+⚡ Developing scalable production-ready Machine Learning models for various use cases to create business value.<br>
+⚡ Experience in working with DeepLearning and Classical machine learning algorithms.<br>
+⚡ Experience in working with ML-OPS - Deploying machine learning models into production.<br>
 
-Connect to me here
+
+
+I am available virtually on every social media. I can help you with Machine Learning, Deep Learning, Deployment of ML models, Reinforcement Learning and Explainable AI problems. Connect to me here:
 
 <p><a href="https://twitter.com/Abhishe32260532"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/abhishek-g-m/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://www.instagram.com/abhishek_maheshwarappa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 <a href="https://abhishek-maheshwarappa.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <p><a href="https://abhi-gm.github.io/">➡️ Check out my website</a></p>
+
+Can Email me at - abhigm.kar@gmail.com
 
 ### Languages and Tools:
 
