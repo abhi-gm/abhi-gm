@@ -1,11 +1,4 @@
-### Hey I am Abhishek Maheshwarappa here 👋 👋
-
-<!--
-****Abhishek-Gargha-Maheshwarappa
-/
-Abhishek-Gargha-Maheshwarappa is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-## **Machine Learning Engineer / Data Scientist / MLOps Engineer**
+# **Machine Learning Engineer / Data Scientist / MLOps Engineer**
 
 ⚡ Building CI/CD pipelines for training ML models, packaging and monitoring the ML models and deploying into Kubernetes Cluster.<br>
 ⚡ Developing scalable production-ready Machine Learning models for various use cases to create business value.<br>
