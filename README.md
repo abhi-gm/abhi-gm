@@ -5,14 +5,12 @@
 /
 Abhishek-Gargha-Maheshwarappa is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-A data scientist in making 
+## **Machine Learning Engineer / Data Scientist / MLOps Engineer**
 
-My  goal is to make the world a better place than I found it to be.
-
-
-- :microscope: I am currently working on Model Interpretability and Explainable AI
-- :two_men_holding_hands: I am open to collaborate on Deep Learning related projects.
-- :grin: Pronouns: He/His/Him
+⚡ Building CI/CD pipelines for training ML models, packaging and monitoring the ML models and deploying into Kubernetes Cluster.
+⚡ Developing scalable production-ready Machine Learning models for various use cases to create business value.
+⚡ Experience in working with DeepLearning and Classical machine learning algorithms.
+⚡ Experience in working with ML-OPS - Deploying machine learning models into production.
 </br>
 
 Connect to me here
