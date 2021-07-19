@@ -32,7 +32,33 @@ Can Email me at - abhigm.kar@gmail.com
 <img src="https://img.shields.io/badge/CI/CD%20Pipeline-232F7E?style=flat-square&logo=azurepipelines" height=20></a>
 </p>
 
-## ⚡ **MLOps Technology**
+## ⚡ **MLOps Technology and Cloud Technology**
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure" height=20></a>
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" height=20></a>
+<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
+<img src="https://img.shields.io/badge/CI/CD%20Pipeline-232F7E?style=flat-square&logo=azurepipelines" height=20></a>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" height=20></a>
+<img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes" height=20></a>
+<img src="https://img.shields.io/badge/-ML%Flow-red" height=20></a>
+<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
+<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" height=20></a>
+</p>
+
+## ⚡ **Tools**
+
+<p>
+
+<img src="https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=databricks" height=20></a>
+<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
+<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
+<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
+<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" height=20></a>
+</p>
+
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
