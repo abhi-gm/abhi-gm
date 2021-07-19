@@ -26,9 +26,9 @@ Can Email me at - abhigm.kar@gmail.com
 ## ⚡ Technologies
 
 <p>
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" height=15></a>
-<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch" height=15></a>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" height=15></a>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" height=20></a>
+<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch" height=20></a>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" height=20></a>
 </p>
 
 ## ⚡ **MLOps Technology**
