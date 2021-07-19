@@ -25,7 +25,7 @@ Can Email me at - abhigm.kar@gmail.com
 
 ## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
