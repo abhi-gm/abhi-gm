@@ -23,11 +23,20 @@ I am available virtually on every social media. I can help you with Machine Lear
 
 Can Email me at - abhigm.kar@gmail.com
 
-### Languages and Tools:
+## ⚡ Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
 
-<img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/python.png" height="30" />&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/python.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/numpy.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/pytorch.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/scikit.png" height="30" />&nbsp;&nbsp;&nbsp;
@@ -40,6 +49,6 @@ Can Email me at - abhigm.kar@gmail.com
 <img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/bash.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/aws.png" height="30" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Abhishek-Gargha-Maheshwarappa/Abhishek-Gargha-Maheshwarappa/blob/master/assets/sql.png" height="30" />&nbsp;&nbsp;&nbsp;
-</br>
+</br> -->
 
 
