@@ -51,7 +51,7 @@ Can Email me at - abhigm.kar@gmail.com
 
 <img src="https://img.shields.io/badge/-Databricks-blue?style=flat-square&logo=databricks" height=20></a>
 <img src="https://img.shields.io/badge/-Jupyter-blue?style=flat-square&logo=jupyter" height=20></a>
-<img src="https://img.shields.io/badge/-Visual%Studio%Code-blue?style=flat-square&logo=visualstudiocode" height=20></a>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode" height=20></a>
 <img src="https://img.shields.io/badge/-Vim-blue?style=flat-square&logo=vim" height=20></a>
 <!-- <img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a> -->
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" height=20></a>
