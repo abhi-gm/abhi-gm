@@ -41,21 +41,19 @@ Can Email me at - abhigm.kar@gmail.com
 <img src="https://img.shields.io/badge/CI/CD%20Pipeline-232F7E?style=flat-square&logo=azurepipelines" height=20></a>
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" height=20></a>
 <img src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes" height=20></a>
-<img src="https://img.shields.io/badge/-ML%Flow-red" height=20></a>
-<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
-<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" height=20></a>
+<img src="https://img.shields.io/badge/ML%20Flow-green" height=20></a>
+<img src="https://img.shields.io/badge/Seldon-blue" height=20></a>
 </p>
 
 ## ⚡ **Tools**
 
 <p>
 
-<img src="https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=databricks" height=20></a>
-<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
-<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
-<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
-<img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a>
+<img src="https://img.shields.io/badge/-Databricks-blue?style=flat-square&logo=databricks" height=20></a>
+<img src="https://img.shields.io/badge/-Jupyter-blue?style=flat-square&logo=jupyter" height=20></a>
+<img src="https://img.shields.io/badge/-Visual%Studio%Code-blue?style=flat-square&logo=visualstudiocode" height=20></a>
+<img src="https://img.shields.io/badge/-Vim-blue?style=flat-square&logo=vim" height=20></a>
+<!-- <img src="https://img.shields.io/badge/-Azure%DevOps-black?style=flat-square&logo=azuredevops" height=20></a> -->
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" height=20></a>
 </p>
 
