@@ -29,7 +29,7 @@ Can Email me at - abhigm.kar@gmail.com
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" height=20></a>
 <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch" height=20></a>
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" height=20></a>
-<img src="https://img.shields.io/badge/CI/CD%20Pipeline-232F7E?style=flat-square&logo=https://simpleicons.org/icons/azurepipelines.svg" height=20></a>
+<img src="https://img.shields.io/badge/CI/CD%20Pipeline-232F7E?style=flat-square&logo=azurepipelines" height=20></a>
 </p>
 
 ## ⚡ **MLOps Technology**
